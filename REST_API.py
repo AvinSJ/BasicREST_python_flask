@@ -22,7 +22,7 @@ out_file = open("moviedata.json", "w")
 table=json.dump(table, out_file)
 out_file.close()
 
-f = open('myfile.json', )
+f = open('moviedata.json', )
 data = json.load(f)
 f.close()
 
