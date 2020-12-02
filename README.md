@@ -1,5 +1,8 @@
 # NJCLabs_Task
 
+database_of_movies_movie_list.sql:
+                       This is the original Database created using MySQL.
+
 Connect_Mysql.py :
         Is used to connnect python to the the SQL Database and verify the connection.
 
