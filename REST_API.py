@@ -34,7 +34,7 @@ class Table(Resource):
 	def put(self, id):
 		args=index_args.parse_args()
 		d[id]=args
-		return print(d[id])
+		return d[id]
 
 
 
