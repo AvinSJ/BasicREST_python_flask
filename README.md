@@ -1,4 +1,4 @@
-# NJCLabs_Task
+
 
 database_of_movies_movie_list.sql:
                        This is the original Database created using MySQL.
